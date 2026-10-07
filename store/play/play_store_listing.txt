@@ -1,0 +1,136 @@
+CabaDZ — Google Play Store listing
+==================================
+Use these in Play Console. Feature graphic size is 1024 × 500
+(not 10124 × 500).
+
+Assets in this folder:
+- icon_512.png                 High-res icon (512 × 512 PNG)
+- feature_graphic_1024x500.png Feature graphic (1024 × 500 PNG, no alpha)
+- privacy.html                 Privacy policy (host this on a public URL)
+
+App name
+--------
+CabaDZ
+
+Category
+--------
+Travel & Local  (or Lifestyle)
+
+------------------------------------------------
+ENGLISH
+------------------------------------------------
+
+Short description (80 characters max):
+Connect travelers and senders from Algeria to the world.
+
+Long description:
+CabaDZ connects travelers with leftover luggage space to people who need to send packages — from Algeria to the world, and back.
+
+Whether you are flying soon or you have something to send, CabaDZ helps you find a trusted match, chat in the app, agree on the delivery, and confirm handover with a QR code.
+
+FOR TRAVELERS
+• Publish your trip: origin, destination, date, and available kilograms
+• Set a price per kilo in EUR, USD, or DZD
+• Get contacted by senders on your route
+• Scan the sender’s QR code when you deliver
+
+FOR SENDERS
+• Post a shipment: item, weight, origin, and destination
+• Search travelers going your way
+• Chat, agree, and generate a QR code for handover
+• Follow your order until it is completed
+
+WHY CABADZ
+• Built for the Algerian diaspora and travelers
+• Arabic, French, and English
+• In-app chat, notifications, and order tracking
+• Two-sided match confirmation before delivery
+• Ratings to help you choose people you can trust
+
+CabaDZ is a community marketplace. Always follow airline and customs rules, and never send prohibited items.
+
+Connect. Travel. Deliver.
+From Algeria to the world. Together. Closer.
+
+------------------------------------------------
+FRENCH
+------------------------------------------------
+
+Short description (80 characters max):
+Reliez voyageurs et expéditeurs, de l'Algérie vers le monde.
+
+Long description:
+CabaDZ relie les voyageurs qui ont de la place dans leurs bagages aux personnes qui veulent envoyer un colis — de l’Algérie vers le monde, et inversement.
+
+Que vous preniez bientôt l’avion ou que vous ayez quelque chose à envoyer, CabaDZ vous aide à trouver une personne de confiance, à discuter dans l’application, à vous mettre d’accord, puis à confirmer la remise avec un QR code.
+
+POUR LES VOYAGEURS
+• Publiez votre voyage : départ, destination, date et kilos disponibles
+• Indiquez un prix au kilo en EUR, USD ou DZD
+• Recevez des demandes de personnes sur votre trajet
+• Scannez le QR code de l’expéditeur à la livraison
+
+POUR LES EXPÉDITEURS
+• Publiez un colis : objet, poids, origine et destination
+• Trouvez des voyageurs qui font le même trajet
+• Discutez, validez, et générez un QR code pour la remise
+• Suivez votre demande jusqu’à la fin
+
+POURQUOI CABADZ
+• Pensé pour la diaspora et les voyageurs algériens
+• Arabe, français et anglais
+• Chat, notifications et suivi des commandes
+• Confirmation des deux côtés avant la livraison
+• Notes et avis pour choisir en confiance
+
+CabaDZ est une place de marché communautaire. Respectez toujours les règles des compagnies aériennes et des douanes, et n’envoyez jamais d’objets interdits.
+
+Connect. Travel. Deliver.
+De l’Algérie vers le monde. Ensemble, plus proche.
+
+------------------------------------------------
+ARABIC
+------------------------------------------------
+
+Short description (80 characters max):
+اربط المسافرين والمرسلين من الجزائر إلى العالم.
+
+Long description:
+CabaDZ يربط المسافرين الذين لديهم وزن متاح في أمتعتهم مع الأشخاص الذين يريدون إرسال شحنة — من الجزائر إلى العالم، وبالعكس.
+
+سواء كنت ستسافر قريباً أو لديك شيء لإرساله، يساعدك CabaDZ على إيجاد شخص موثوق، والمحادثة داخل التطبيق، والاتفاق، ثم تأكيد التسليم عبر رمز QR.
+
+للمسافرين
+• انشر رحلتك: بلد الانطلاق، الوجهة، التاريخ، والوزن المتاح
+• حدد سعراً للكيلوغرام بـ EUR أو USD أو DZD
+• استقبل طلبات من مرسلين على نفس المسار
+• امسح رمز QR الخاص بالمرسل عند التسليم
+
+للمرسلين
+• انشر شحنة: وصف الغرض، الوزن، المصدر، والوجهة
+• ابحث عن مسافر في طريقك
+• تحدث، اتفق، وأنشئ رمز QR للتسليم
+• تابع طلبك حتى يكتمل
+
+لماذا CabaDZ
+• مصمم للجالية والمسافرين من الجزائر
+• العربية والفرنسية والإنجليزية
+• محادثة، إشعارات، ومتابعة الطلبات
+• تأكيد من الطرفين قبل التسليم
+• تقييمات تساعدك على اختيار أشخاص موثوقين
+
+CabaDZ سوق مجتمعي. التزم دائماً بقوانين شركات الطيران والجمارك، ولا ترسل أي مواد محظورة.
+
+Connect. Travel. Deliver.
+من الجزائر إلى العالم. معاً. أقرب.
+
+------------------------------------------------
+Play Console checklist
+------------------------------------------------
+1. Host store/play/privacy.html on a public HTTPS URL and paste that URL
+   into Privacy policy.
+2. Upload icon_512.png as High-res icon.
+3. Upload feature_graphic_1024x500.png as Feature graphic.
+4. Add at least 2 phone screenshots (16:9 or 9:16) from a real device.
+5. Sign the Android App Bundle with an upload key (not debug).
+6. Complete Data safety: account info, photos, messages, and app activity.
